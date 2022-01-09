@@ -1,0 +1,14 @@
+{
+  "name": "Rocketflix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Souza <bhuno.souzaa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
